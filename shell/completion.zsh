@@ -1,1 +1,1 @@
-# zsh completion
+# zsh completion for sk

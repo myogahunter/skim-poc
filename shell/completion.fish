@@ -1,1 +1,1 @@
-# fish completion
+# fish completion for sk

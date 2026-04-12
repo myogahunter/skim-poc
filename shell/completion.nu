@@ -1,1 +1,1 @@
-# nushell completion
+# nushell completion for sk
