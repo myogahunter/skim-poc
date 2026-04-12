@@ -1,0 +1,9 @@
+[package]
+name = "skim"
+version = "4.5.1"
+edition = "2021"
+default-run = "sk"
+
+[[bin]]
+name = "sk"
+path = "src/bin/main.rs"
